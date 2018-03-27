@@ -13,7 +13,7 @@ cd to this directory, then run
 To make a .desktop file, follow [these](https://askubuntu.com/questions/64222/how-can-i-create-launchers-on-my-desktop) instructions<br/>
 Set the name to "Othello"<br/>
 Set the command to the command above (make sure to include the filepath from /home/)<br/>
-Set the icon to othello.png<br/>
+Set the icon to othello.png (in the "Game" folder)<br/>
 Make sure to put the .desktop file in ~/.local/share/applications/ to make it searchable
 
 ## Othello Information
