@@ -5,13 +5,20 @@ by Ryan J. Slater https://github.com/rjslater2000/Othello
 
 To Run:
 Windows:
+Ensure Java is installed
+Extract "Othello - master.zip"
+Inside the extracted folder is a folder called "Othello - master"
+Cut this folder and paste it into C:/Program Files/
+Rename the folder to "OthelloGame"
 Double click on OthelloGame.bat.exe and trust the program to run
 
 Linux:
-cd to this directory, then run
+cd to this directory, then run:
+
 java -jar Othello.jar
+
 To make a .desktop file, follow these instructions:
-https://askubuntu.com/questions/64222/how-can-i-create-launchers-on-my-desktop
+https://askubuntu.com/questions/64222/how-can-i-create-launchers-on-my-desktop)
 Set the name to "Othello"
 Set the command to the command above (make sure to include the filepath from /home/)
 Set the icon to othello.png (in the "Game" folder)

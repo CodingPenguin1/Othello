@@ -5,6 +5,11 @@ by [Ryan J. Slater](https://github.com/rjslater2000/Othello)
 ## To Run:
 
 ### Windows
+Ensure Java is installed<br/>
+Extract "Othello - master.zip"<br/>
+Inside the extracted folder is a folder called "Othello - master"<br/>
+Cut this folder and paste it into C:/Program Files/<br/>
+Rename the folder to "OthelloGame"<br/>
 Double click on OthelloGame.bat.exe and trust the program to run
 
 ### Linux
