@@ -8,7 +8,14 @@ Windows:
 Double click on OthelloGame.bat.exe and trust the program to run
 
 Linux:
-Will be supported soon
+cd to this directory, then run
+java -jar Othello.jar
+To make a .desktop file, follow these instructions:
+https://askubuntu.com/questions/64222/how-can-i-create-launchers-on-my-desktop
+Set the name to "Othello"
+Set the command to the command above (make sure to include the filepath from /home/)
+Set the icon to othello.png (in the "Game" folder)
+Make sure to put the .desktop file in ~/.local/share/applications/ to make it searchable
 
 
 Othello Information:
