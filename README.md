@@ -3,7 +3,12 @@ Othello/Reversi Terminal Game<br/>
 by [Ryan J. Slater](https://github.com/rjslater2000/Othello)
 
 ## To Run:
+
+### Windows
 Double click on OthelloGame.bat.exe and trust the program to run
+
+### Linux
+Will be supported soon
 
 ## Othello Information
 
