@@ -12,7 +12,7 @@ Cut this folder and paste it into C:/Program Files/
 Rename the folder to "OthelloGame"
 Double click on OthelloGame.bat.exe and trust the program to run
 
-Linux:
+Linux/OS X:
 cd to this directory, then run:
 
 java -jar Othello.jar
