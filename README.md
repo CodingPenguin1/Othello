@@ -12,7 +12,7 @@ Cut this folder and paste it into C:/Program Files/<br/>
 Rename the folder to "OthelloGame"<br/>
 Double click on OthelloGame.bat.exe and trust the program to run
 
-### Linux
+### Linux/OS X
 cd to this directory, then run<br/>
 `java -jar Othello.jar`<br/>
 To make a .desktop file, follow [these](https://askubuntu.com/questions/64222/how-can-i-create-launchers-on-my-desktop) instructions<br/>
